@@ -9,7 +9,7 @@ function Work(props) {
     
     <div class="picsContainer" id="work-pics"> 
       
-      <div class="image1"><a href="https://booksearch92.herokuapp.com/"><img src="./images/bookSearch.png" class="gridPics" alt="" /></a><h4>Book Search Engine</h4></div>
+      <div class="image1"><a href="https://booksearch92.herokuapp.com/"><img src={require('../images/bookSearch.png')} class="gridPics" alt="" /></a><h4>Book Search Engine</h4></div>
 
       <div class="image2"><a href="https://thelemmonade.github.io/project-whatch/"><img src="./images/project-whatch.png" class="gridPics" alt="" /></a><h4>Interactive Front End Site</h4></div>
 
