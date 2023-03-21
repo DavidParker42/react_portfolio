@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reacat_portfolio/static/css/main.c321be27.css",
-    "main.js": "/reacat_portfolio/static/js/main.ac06012c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/reacat_portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/bookSearch.png": "/reacat_portfolio/static/media/bookSearch.8d81d858d69d2712fc1d.png",
-    "index.html": "/reacat_portfolio/index.html",
-    "main.c321be27.css.map": "/reacat_portfolio/static/css/main.c321be27.css.map",
-    "main.ac06012c.js.map": "/reacat_portfolio/static/js/main.ac06012c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/reacat_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/react_portfolio/static/css/main.c321be27.css",
+    "main.js": "/react_portfolio/static/js/main.1c7f152c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bookSearch.png": "/react_portfolio/static/media/bookSearch.8d81d858d69d2712fc1d.png",
+    "index.html": "/react_portfolio/index.html",
+    "main.c321be27.css.map": "/react_portfolio/static/css/main.c321be27.css.map",
+    "main.1c7f152c.js.map": "/react_portfolio/static/js/main.1c7f152c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c321be27.css",
-    "static/js/main.ac06012c.js"
+    "static/js/main.1c7f152c.js"
   ]
 }
