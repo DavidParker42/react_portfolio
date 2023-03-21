@@ -22,4 +22,3 @@ A portfolio that utilizes react.
 
   ## Github repository link
   
-lslsl
